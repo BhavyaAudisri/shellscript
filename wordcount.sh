@@ -3,7 +3,7 @@
  echo "total no of line in a file : $(wc -l sample.txt)"
  #!/bin/bash
 #Desc: Find out frequency of words in a file
-if [ $sample.txt -ne 1 ];
+if [ $# -ne 1 ];
 then
   echo "Usage: $0 filename";
   exit -1
