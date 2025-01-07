@@ -1,5 +1,3 @@
 #!/bin/bash
- echo "total no of words in a file is :" #display total no of words in a file
- echo " $(wc -w sample.txt)"
- echo "total no of line in a file"
- echo " $(wc -l sample.txt)"
+ echo "total no of words in a file is : $(wc -w sample.txt)" #display total no of words in a file
+ echo "total no of line in a file : $(wc -l sample.txt)"
