@@ -1,4 +1,3 @@
-
 hi my name is bhavya
 i am learning devops in join devops.com
 devops is the mandatory course in these days
