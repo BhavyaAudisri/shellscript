@@ -1,5 +1,6 @@
 #!/bin/bash
-
+a=10
+b=20
 echo "All variables passed: $@"
 echo "Number of variables: $#"
 echo "Script name: $0"
